@@ -1,0 +1,8 @@
+Non-Functional Requirements
+Requirement          	Target
+Scalability	          10,000 resumes per job
+Latency	              <3 seconds ranking
+Availability	        99.9% uptime
+Security	            Encrypted storage
+Compliance	          GDPR-ready
+Explainability	      Transparent scoring
