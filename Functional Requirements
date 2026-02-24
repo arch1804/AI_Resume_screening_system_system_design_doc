@@ -1,0 +1,23 @@
+Functional Requirements
+
+1 Resume Upload
+
+Recruiter uploads:
+-Job Description
+-Multiple resumes (PDF/DOC)
+
+2 Resume Processing
+-Extract text
+-Structure candidate data
+-Generate embeddings
+-Compute similarity score
+
+3 Ranking & Shortlisting
+-Rank candidates
+-Highlight matching skills
+-Allow filtering
+-Export shortlist
+
+4 Bias Detection
+-Mask sensitive attributes
+-Provide fairness metrics
