@@ -1,0 +1,11 @@
+Core Components
+
+-API Gateway
+-Resume Ingestion Service
+-Resume Parser Service
+-Embedding Service
+-Ranking Engine
+-Bias Detection Module
+-Dashboard Frontend
+-Storage Layer
+-Message Queue
