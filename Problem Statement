@@ -1,0 +1,14 @@
+1. Problem Statement
+
+Recruiters often receive thousands of resumes for a single job posting. Manual screening:
+-Is time-consuming
+-Introduces unconscious bias
+-Misses strong candidates
+-Does not scale
+
+This system proposes a cloud-native, AI-powered resume screening platform that:
+-Parses resumes
+-Matches them semantically with job descriptions
+-Ranks candidates
+-Detects bias
+-Provides explainable scoring
