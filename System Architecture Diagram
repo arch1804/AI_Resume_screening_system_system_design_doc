@@ -1,0 +1,17 @@
+Recruiter
+   |
+API Gateway
+   |
+Resume Ingestion → Object Storage (S3)
+   |
+Message Queue
+   |
+Resume Parser
+   |
+Embedding Service → Vector DB
+   |
+Ranking Service
+   |
+Bias Detection
+   |
+Dashboard
