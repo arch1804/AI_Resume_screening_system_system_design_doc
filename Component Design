@@ -1,0 +1,28 @@
+6.1 API Gateway
+Authentication
+Rate limiting
+Routing
+
+6.2 Resume Ingestion Service
+Upload handling
+File validation
+Store in object storage
+Push message to queue
+
+6.3 Resume Parser Service
+Extract text
+NLP preprocessing
+Structured JSON generation
+
+6.4 Embedding Service
+Generate embeddings using transformer models
+Store in Vector DB (FAISS/Pinecone)
+
+6.5 Ranking Engine
+Score Formula:
+Final Score = (semantic similarity × w1) + (skill overlap × w2) + (experience relevance × w3)
+
+6.6 Bias Detection Service
+Remove gender signals
+Remove university prestige bias
+Monitor fairness metrics
