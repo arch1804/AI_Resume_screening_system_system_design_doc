@@ -1,0 +1,9 @@
+Horizontal Scaling
+Stateless microservices
+Kubernetes auto-scaling
+
+Async Processing
+Kafka/RabbitMQ
+
+Partitioning
+Shard by Job ID
