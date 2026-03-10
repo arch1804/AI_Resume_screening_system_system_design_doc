@@ -1,0 +1,13 @@
+7.1 Relational Database (PostgreSQL)
+Tables:
+jobs
+candidates
+resumes
+rankings
+
+7.2 Object Storage
+Raw resume files
+
+7.3 Vector Database
+Resume embeddings
+JD embeddings
