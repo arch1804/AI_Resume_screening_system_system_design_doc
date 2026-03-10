@@ -1,0 +1,8 @@
+Recruiter uploads JD + resumes
+Files stored in object storage
+Message sent to queue
+Parser extracts structured data
+Embeddings generated
+Stored in vector DB
+Ranking computed
+Results displayed in dashboard
